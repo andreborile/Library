@@ -1,0 +1,56 @@
+    {
+        "author": "Jane Austen",
+        "country": "United Kingdom",
+        "language": "English",
+        "pages": 226,
+        "title": "Pride and Prejudice",
+        "year": 1813
+    },
+    {
+        "author": "Honore de Balzac",
+        "country": "France",
+        "language": "French",
+        "pages": 443,
+        "title": "Le Pere Goriot",
+        "year": 1835
+    },
+    {
+        "author": "Samuel Beckett",
+        "country": "Republic of Ireland",
+        "language": "French, English",
+        "pages": 256,
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "year": 1952
+    },
+    {
+        "author": "Giovanni Boccaccio",
+        "country": "Italy",
+        "language": "Italian",
+        "pages": 1024,
+        "title": "The Decameron",
+        "year": 1351
+    },
+    {
+        "author": "Jorge Luis Borges",
+        "country": "Argentina",
+        "language": "Spanish",
+        "pages": 224,
+        "title": "Ficciones",
+        "year": 1965
+    },
+    {
+        "author": "Emily Bronte",
+        "country": "United Kingdom",
+        "language": "English",
+        "pages": 342,
+        "title": "Wuthering Heights",
+        "year": 1847
+    },
+    {
+        "author": "Albert Camus",
+        "country": "Algeria, French Empire",
+        "language": "French",
+        "pages": 185,
+        "title": "The Stranger",
+        "year": 1942
+    }
